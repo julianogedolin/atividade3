@@ -1,0 +1,12 @@
+.errorInput {
+    border: 1px solid rgb(250, 145, 145) !important;
+}
+
+.successInput {
+    border: 1px solid rgb(128, 235, 128) !important;
+}
+
+span {
+    font-size: 12px;
+    color: red
+}
